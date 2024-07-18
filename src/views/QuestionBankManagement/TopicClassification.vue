@@ -1,9 +1,10 @@
 <script setup lang="ts">
 
+import SearchFrom from '@/components/FromData/SearchFrom.vue'
 </script>
 
 <template>
-TopicClassification
+<SearchFrom />
 </template>
 
 <style scoped>

@@ -3,7 +3,6 @@
 </script>
 
 <template>
-题库管理
   <RouterView />
 </template>
 
